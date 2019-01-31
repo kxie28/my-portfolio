@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Kevin Xie's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
